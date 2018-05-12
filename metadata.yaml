@@ -1,0 +1,28 @@
+_repo: The-Yotsuya-Kwaidan-or-O-Iwa-InariTales-of-the-Tokugawa-Volume-1--of-2-_19944
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Benneville, James S. (James Seguin)
+    alias: Benneville, James S. De (James Seguin)
+    gutenberg_agent_id: '8981'
+    url: http://www.gutenberg.org/2009/agents/8981
+description: ''
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2006-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19944'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Japan'
+- !lcc 'PL'
+title: 'The Yotsuya Kwaidan or O''Iwa Inari
+
+  Tales of the Tokugawa, Volume 1 (of 2)'
+url: http://www.gutenberg.org/ebooks/19944
