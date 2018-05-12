@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8981'
     url: http://www.gutenberg.org/2009/agents/8981
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19944#The-Yotsuya-Kwaidan-or-O-Iwa-InariTales-of-the-Tokugawa-Volume-1--of-2-
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2006-11-28'
 gutenberg_type: Text
